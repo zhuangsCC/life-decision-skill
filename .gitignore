@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.life-decision/
+.life-decision-state.json
+*.log
+.DS_Store
